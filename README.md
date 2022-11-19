@@ -1,6 +1,3 @@
-👋 Hi, I’m Alex and interested in robotics, machine learning, dynamical systems and science overall!
+👋 Hi, I’m Alex and an engineering student at University of Stuttgart. I am interested in robotics and machine learning.
 
-<!---
-alexanderdittrich/alexanderdittrich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I strongly advocate for open source and open science!
